@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619374268 source:c:\users\lorena\desktop\laborator 21.04.2021\laborator_21.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619596235 source:c:\users\lorena\desktop\sda\laborator 21.04.2021\laborator_21.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619596235 source:c:\users\lorena\desktop\cv -github\laborator 21.04.2021\laborator_21.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
